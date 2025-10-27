@@ -7,6 +7,9 @@
 
  - https://byui-cse.github.io/wdd330-ww-course/week01/team.html
 
+ - This is the link of the project hosted on Netlify:
+ - https://heroic-starship-352e2f.netlify.app/ 
+
 ### Prerequisites
 
 - You must have Node installed to run the following commands.
